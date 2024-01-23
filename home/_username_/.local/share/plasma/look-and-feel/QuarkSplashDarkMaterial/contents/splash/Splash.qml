@@ -18,7 +18,7 @@
 
 
     Customised by CaminaShell 2024 <github.com/caminashell>
-    Source location: /home/_username_/.local/share/plasma/look-and-feel/QuarkSplashDarker/contents/splash/
+    Source location: /home/_username_/.local/share/plasma/look-and-feel/QuarkSplashDarkMaterial/contents/splash/
  */
 
 import QtQuick 2.5
